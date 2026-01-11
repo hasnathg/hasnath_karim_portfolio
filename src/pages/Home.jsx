@@ -272,9 +272,7 @@ using modern JavaScript and Python frameworks.
     ))}
   </div>
 
-  {/* <Link to="/certifications" className="btn btn-sm btn-outline">
-    View all certifications
-  </Link> */}
+  
 </section>
 
       {/* 8: Experience */}
