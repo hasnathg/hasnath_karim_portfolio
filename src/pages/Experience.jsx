@@ -18,7 +18,7 @@ const roles = [
       title: "Shift Manager",
       company: "McDonald’s",
       location: "London, UK",
-      dates: "Oct 2014 – Present",
+      dates: "Oct 2014 – January 2026",
       bullets: [
         "Manage daily operations, scheduling, and inventory control",
         "Resolve customer concerns and maintain high service standards",

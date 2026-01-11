@@ -52,7 +52,7 @@ const Home = () => {
     title: "Data Entry & Admin Assistant",
     company: "JSS & Co. Accountants",
     location: "London, UK",
-    dates: "Oct 2023 – Mar 2024",
+    dates: "Oct 2023 – June 2024",
     bullets: ["Accurate data entry (Dext, Sage)", "Updated company website with new business information to improve client communication"],
   },
 ];

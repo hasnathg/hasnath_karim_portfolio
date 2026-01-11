@@ -11,14 +11,15 @@ const About = () => {
   <div className="grid gap-6 md:grid-cols-3">
     {/* highlight card */}
     <div className="md:col-span-1 rounded-2xl border border-base-300 bg-base-200 p-6">
-      <h3 className="text-lg font-semibold">Who I Am</h3>
+      <h3 className="text-lg font-semibold">Building Software with Purpose</h3>
       <p className="mt-3 opacity-80">
-        I’m MD Hasnath Karim — a MERN developer who enjoys turning ideas into fast,
-        accessible web apps. My background in operations sharpened process thinking
-        and attention to detail, which I bring to engineering.
+         I’m MD Hasnath Karim — a software developer who enjoys turning ideas into clean,
+        accessible, and reliable web applications. My background in operations and administration
+        strengthened my process thinking, attention to detail, and ability to stay organised under
+        pressure — skills I now apply to software engineering.
       </p>
       <div className="mt-4 flex flex-wrap gap-2">
-        <span className="badge badge-ghost">MERN</span>
+        <span className="badge badge-ghost">Frontend & Backend</span>
         <span className="badge badge-ghost">Accessibility</span>
         <span className="badge badge-ghost">Clean UX</span>
       </div>
@@ -30,15 +31,15 @@ const About = () => {
         <div>
           <h4 className="font-semibold">My Journey</h4>
           <p className="mt-2 opacity-80">
-            I moved into web development because I love building useful, polished apps.
-            I value clear requirements, maintainable code, and steady delivery.
+            I moved into software development because I enjoy building useful products that feel smooth to use.
+            I value clear requirements, maintainable code, and steady progress from idea to release.
           </p>
         </div>
         <div>
           <h4 className="font-semibold">What I Enjoy</h4>
           <p className="mt-2 opacity-80">
-            Crafting accessible components, secure APIs, and sensible data models.
-            I like transforming rough ideas into smooth user experiences.
+            Crafting accessible UI, building secure APIs, and working with data models that scale.
+            I like turning rough requirements into polished features.
           </p>
         </div>
         <div>
