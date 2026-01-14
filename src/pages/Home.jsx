@@ -146,16 +146,14 @@ using modern JavaScript and Python frameworks.
       <h3 className="text-lg font-semibold">Building Software with Purpose</h3>
 
       <p className="mt-3 opacity-80">
-        I’m MD Hasnath Karim — a software developer who enjoys turning ideas into clean,
-        accessible, and reliable web applications. My background in operations and administration
-        strengthened my process thinking, attention to detail, and ability to stay organised under
-        pressure — skills I now apply to software engineering.
+         I’m MD Hasnath Karim — a software developer who enjoys turning ideas into clean,
+        accessible, and reliable web applications. With a background in operations and administration, I bring structured thinking, reliability, and attention to detail into software engineering.
       </p>
 
       <div className="mt-4 flex flex-wrap gap-2">
-        <span className="badge badge-ghost">Frontend & Backend</span>
-        <span className="badge badge-ghost">Accessibility</span>
-        <span className="badge badge-ghost">Clean UX</span>
+        <span className="badge badge-ghost">Full-Stack Development</span>
+        <span className="badge badge-ghost">Accessibility & Performance</span>
+        <span className="badge badge-ghost">Clean, Maintainable UX</span>
       </div>
     </div>
 
