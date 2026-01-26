@@ -25,28 +25,32 @@ const Home = () => {
 
   const roles = [
   {
-    id: "exam-invigilator-tkc",
-    title: "Exam Invigilator",
-    company: "Thomas Knyvett College",
-    location: "Ashford, UK",
-    dates: "Feb 2025 – Present",
-    bullets: [
-      "Supervise and monitor students to ensure exam integrity and compliance",
-      "Distribute/collect papers securely and verify candidate IDs",
-      "Maintain a calm, organized exam hall and follow JCQ/centre procedures",
-    ],
-  },
-  {
-    id: "mcd-shift",
-    title: "Shift Manager",
-    company: "McDonald’s",
-    location: "London, UK",
-    dates: "Oct 2014 – Jan 2026",
-    bullets: [
-      "Daily operations, scheduling, inventory",
-      "Customer issue resolution & reporting",
-    ],
-  },
+      id: "Full-Stack-Developer",
+      title: "Junior Full Stack Developer",
+      company: "Infinity Flame Soft",
+      location: "Remote",
+      dates: "Oct 2025 – Present",
+      bullets: [
+        "Developing and maintaining web applications using modern frontend and backend technologies.",
+        "Implementing web prototypes and translating client requirements into functional, user-focused solutions.",
+        "Collaborating remotely with team members to analyze client needs and deliver features on time.",
+        "Maintaining existing systems, resolving issues, and ensuring reliable application performance.",
+        "Debugging issues, supporting live applications, and contributing to continuous improvement",
+      ],
+    },
+     
+     {
+      id: "Full-Stack-Developer-Volunteer",
+      title: "Full-Stack Developer (Volunteer)",
+      company: "MNessa Limited",
+      location: "London",
+      dates: "July 2025 – Present",
+      bullets: [
+        "Contributing to a full-stack web application using React and Node.js, delivering user-facing features from requirements to deployment.",
+        "Collaborating with designers/stakeholders to translate Figma/briefs into responsive UI components and API integrations.",
+        "Supporting QA and bug-fixing, improving reliability and usability across key pages and flows.",
+      ],
+    },
   {
     id: "jss-admin",
     title: "Data Entry & Admin Assistant",
